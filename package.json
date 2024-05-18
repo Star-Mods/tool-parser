@@ -1,0 +1,11 @@
+{
+  "name": "sc-parser",
+  "version": "1.0.0",
+  "description": "SC2 Data Parser",
+  "type": "module",
+  "author": "visceroid",
+  "license": "MIT",
+  "dependencies": {
+    "octokit": "^3.1.1"
+  }
+}
